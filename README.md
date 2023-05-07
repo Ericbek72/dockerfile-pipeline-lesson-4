@@ -1,1 +1,4 @@
 # dockerfile-pipeline-lesson-4
+uses long formats like docker/login-action@65b78e6e13532edd9afa3aa52ac7964289d1a9c1
+docker/metadata-action@9ec57ed1fcdbf14dcef7dfbe97b2010124a938b7
+docker/build-push-action@f2a1d5e99d037542a71f64918e516c093c6f3fc4
